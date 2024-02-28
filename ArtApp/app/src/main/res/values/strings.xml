@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ArtApp</string>
+
+    <string name="art_content_description">Art image</string>
+    <string name="art1_text">Woman yelling at a cat</string>
+    <string name="artist1_name">\@MISSINGEGIRL</string>
+    <string name="art1_year">2019</string>
+    <string name="art2_text">Black Cat Zoning Out</string>
+    <string name="artist2_name">\@vivizirumugireo</string>
+    <string name="art2_year">2023</string>
+    <string name="art3_text">Blini cat</string>
+    <string name="artist3_name">Robert Hazbulatov</string>
+    <string name="art3_year">2015</string>
+    <string name="art4_text">Natasha, are you asleep?</string>
+    <string name="artist4_name">folk art</string>
+    <string name="art4_year">2019</string>
+    <string name="art5_text">Are you showing fish?</string>
+    <string name="artist5_name">folk art</string>
+    <string name="art5_year">2014</string>
+    <string name="art6_text">Chmonya Cat - Virgo Cat</string>
+    <string name="artist6_name">f3I2g</string>
+    <string name="art6_year">2021</string>
+    <string name="art7_text">Bender the Cat</string>
+    <string name="artist7_name">Nella</string>
+    <string name="art7_year">2020</string>
+    <string name="art8_text">Acceptable</string>
+    <string name="artist8_name">folk art</string>
+    <string name="art8_year">2020</string>
+    <string name="art9_text">Big Floppa</string>
+    <string name="artist9_name">Andrey Bondarev</string>
+    <string name="art9_year">2019</string>
+    <string name="art10_text">Loading cat</string>
+    <string name="artist10_name">folk art</string>
+    <string name="art10_year">2017</string>
+
+
+    <string name="previous_btn_text">previous</string>
+    <string name="next_btn_text">next</string>
+
+</resources>
